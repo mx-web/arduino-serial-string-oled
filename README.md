@@ -1,4 +1,11 @@
 # arduino-serial-string-oled
+
+
+This Script is built for the esp8266 development board, you can simply send String data through the serial port and your data is going to be printed on the OLED display
+
+
+
+![ESP8266 with OLED Display](https://www.makershop.de/wp-content/uploads/2018/06/nodemcu-esp8266-dev-board-3.jpg)
 ```
 #include <ESP8266WiFi.h>
 #include "SSD1306.h"
